@@ -1,0 +1,1204 @@
+塔山GS_PRTU 通訊狀態       PRTU                0                   
+塔山GS_TEST CB         PRTU                1                   
+塔山GS_塔莒一路 205 CB     PRTU                2                   
+塔山GS_塔莒一路 255 CB     PRTU                3                   
+塔山GS_塔莒二路 206 CB     PRTU                4                   
+塔山GS_塔莒二路 256 CB     PRTU                5                   
+塔山GS_備用207 207 CB    PRTU                6                   
+塔山GS_備用257 257 CB    PRTU                7                   
+塔山GS_備用215 215 CB    PRTU                8                   
+塔山GS_備用265 265 CB    PRTU                9                   
+塔山GS_塔鵲一路 208 CB     PRTU                10                  
+塔山GS_塔鵲一路 258 CB     PRTU                11                  
+塔山GS_#1 GMTR 201 CB  PRTU                12                  
+塔山GS_#1 GMTR 251 CB  PRTU                13                  
+塔山GS_#2 GMTR 202 CB  PRTU                14                  
+塔山GS_#2 GMTR 252 CB  PRTU                15                  
+塔山GS_#3 GMTR 203 CB  PRTU                16                  
+塔山GS_#3 GMTR 253 CB  PRTU                17                  
+塔山GS_#4 GMTR 204 CB  PRTU                18                  
+塔山GS_#4 GMTR 254 CB  PRTU                19                  
+塔山GS_#5 GMTR 211 CB  PRTU                20                  
+塔山GS_#5 GMTR 261 CB  PRTU                21                  
+塔山GS_#6 GMTR 212 CB  PRTU                22                  
+塔山GS_#6 GMTR 262 CB  PRTU                23                  
+塔山GS_213 213 CB      PRTU                24                  
+塔山GS_263 263 CB      PRTU                25                  
+塔山GS_#8 GMTR 214 CB  PRTU                26                  
+塔山GS_#8 GMTR 264 CB  PRTU                27                  
+塔山GS_#1 MTR 209 CB   PRTU                28                  
+塔山GS_#1 MTR 259 CB   PRTU                29                  
+塔山GS_#2 MTR 210 CB   PRTU                30                  
+塔山GS_#2 MTR 260 CB   PRTU                31                  
+塔山GS_TIE CB 216 CB   PRTU                32                  
+塔山GS_TIE CB 266 CB   PRTU                33                  
+塔山GS_DO-34           PRTU                34                  
+塔山GS_DO-35           PRTU                35                  
+塔山GS_DO-36           PRTU                36                  
+塔山GS_DO-37           PRTU                37                  
+塔山GS_DO-38           PRTU                38                  
+塔山GS_#1 MTR 二次 101 CB  PRTU              39                  
+塔山GS_金門城7A21 111 CB  PRTU                40                  
+塔山GS_古崗線7A22 112 CB  PRTU                41                  
+塔山GS_饋線115 115 CB    PRTU                42                  
+塔山GS_饋線116 116 CB    PRTU                43                  
+塔山GS_#2 MTR 二次 102 CB  PRTU              44                  
+塔山GS_酒廠線7A23 113 CB  PRTU                45                  
+塔山GS_酒廠二7A24 114 CB  PRTU                46                  
+塔山GS_饋線117 117 CB    PRTU                47                  
+塔山GS_饋線118 118 CB    PRTU                48                  
+塔山GS_TIE 103 CB      PRTU                49                  
+塔山GS_DO-50           PRTU                50                  
+塔山GS_DO-51           PRTU                51                  
+塔山GS_DO-52           PRTU                52                  
+塔山GS_DO-53           PRTU                53                  
+塔山GS_DO-54           PRTU                54                  
+塔山GS_DO-55           PRTU                55                  
+塔山GS_DO-56           PRTU                56                  
+塔山GS_DO-57           PRTU                57                  
+塔山GS_DO-58           PRTU                58                  
+塔山GS_塔莒一路 #2 87 U/L  PRTU                59                  
+塔山GS_塔莒一路 #1 87 U/L  PRTU                60                  
+塔山GS_塔莒二路 #1 87 U/L  PRTU                61                  
+塔山GS_備用207/257 #1 87 U/L  PRTU           62                  
+塔山GS_備用215/265 #1 87 U/L  PRTU           63                  
+塔山GS_DO-64           PRTU                64                  
+塔山GS_DO-65           PRTU                65                  
+塔山GS_DO-66           PRTU                66                  
+塔山GS_DO-67           PRTU                67                  
+塔山GS_DO-68           PRTU                68                  
+塔山GS_DO-69           PRTU                69                  
+塔山GS_備用215/265 #2 87 U/L  PRTU           70                  
+塔山GS_DO-71           PRTU                71                  
+塔山GS_DO-72           PRTU                72                  
+塔山GS_DO-73           PRTU                73                  
+塔山GS_塔鵲一路 #1 87 U/L  PRTU                74                  
+塔山GS_塔鵲一路 #2 87 U/L  PRTU                75                  
+塔山GS_DO-76           PRTU                76                  
+塔山GS_DO-77           PRTU                77                  
+塔山GS_DO-78           PRTU                78                  
+塔山GS_DO-79           PRTU                79                  
+塔山GS_DO-80           PRTU                80                  
+塔山GS_DO-81           PRTU                81                  
+塔山GS_DO-82           PRTU                82                  
+塔山GS_DO-83           PRTU                83                  
+塔山GS_#1 MTR OLTC A/M  PRTU               84                  
+塔山GS_#1 MTR OLTC TAP  PRTU               85                  
+塔山GS_DO-86           PRTU                86                  
+塔山GS_#2 MTR OLTC A/M  PRTU               87                  
+塔山GS_#2 MTR OLTC TAP  PRTU               88                  
+塔山GS_TIE CB #1 87 U/L  PRTU              89                  
+塔山GS_TIE CB 50+2 S   PRTU                90                  
+塔山GS_DO-91           PRTU                91                  
+塔山GS_DO-92           PRTU                92                  
+塔山GS_DO-93           PRTU                93                  
+塔山GS_DO-94           PRTU                94                  
+塔山GS_DO-95           PRTU                95                  
+塔山GS_DO-96           PRTU                96                  
+塔山GS_金門城7A21 79 RY U/L  PRTU             97                  
+塔山GS_金門城7A21 LCO分流器  PRTU                98                  
+塔山GS_古崗線7A22 79 RY U/L  PRTU             99                  
+塔山GS_古崗線7A22 LCO分流器  PRTU                100                 
+塔山GS_饋線115 79 RY U/L  PRTU               101                 
+塔山GS_饋線115 LCO分流器    PRTU                102                 
+塔山GS_饋線116 79 RY U/L  PRTU               103                 
+塔山GS_饋線116 LCO分流器    PRTU                104                 
+塔山GS_酒廠線7A23 79 RY U/L  PRTU             105                 
+塔山GS_酒廠線7A23 LCO分流器  PRTU                106                 
+塔山GS_酒廠二7A24 79 RY U/L  PRTU             107                 
+塔山GS_酒廠二7A24 LCO分流器  PRTU                108                 
+塔山GS_饋線117 79 RY U/L  PRTU               109                 
+塔山GS_饋線117 LCO分流器    PRTU                110                 
+塔山GS_饋線118 79 RY U/L  PRTU               111                 
+塔山GS_饋線118 LCO分流器    PRTU                112                 
+塔山GS_DO-113          PRTU                113                 
+塔山GS_DO-114          PRTU                114                 
+塔山GS_塔莒二路 #2 87 U/L  PRTU                115                 
+塔山GS_塔莒一路 43R U/L    PRTU                116                 
+塔山GS_備用207/257 #2 87 U/L  PRTU           117                 
+塔山GS_DO-118          PRTU                118                 
+塔山GS_DO-119          PRTU                119                 
+塔山GS_DO-120          PRTU                120                 
+塔山GS_DO-121          PRTU                121                 
+塔山GS_DO-122          PRTU                122                 
+塔山GS_DO-123          PRTU                123                 
+塔山GS_DO-124          PRTU                124                 
+塔山GS_DO-125          PRTU                125                 
+塔山GS_DO-126          PRTU                126                 
+塔山GS_DO-127          PRTU                127                 
+塔山GS_DO-128          PRTU                128                 
+塔山GS_塔莒三路221 221 CB  PRTU                129                 
+塔山GS_塔莒四路222 222 CB  PRTU                130                 
+塔山GS_備用231 231 CB    PRTU                131                 
+塔山GS_塔鵲二路232 232 CB  PRTU                132                 
+塔山GS_2100 2100 CB    PRTU                133                 
+塔山GS_2200 2200 CB    PRTU                134                 
+塔山GS_2300  2300 CB   PRTU                135                 
+塔山GS_2400 2400 CB    PRTU                136                 
+塔山GS_2001 2001 CB    PRTU                137                 
+塔山GS_2002 2002 CB    PRTU                138                 
+塔山GS_#9 GMTR 217 CB  PRTU                139                 
+塔山GS_#10 GMTR 218 CB  PRTU               140                 
+塔山GS_備用219 219 CB    PRTU                141                 
+塔山GS_#7 GMTR 220 CB  PRTU                142                 
+塔山GS_DO-143          PRTU                143                 
+塔山GS_DO-144          PRTU                144                 
+塔山GS_DO-145          PRTU                145                 
+塔山GS_DO-146          PRTU                146                 
+塔山GS_DO-147          PRTU                147                 
+塔山GS_塔莒三路221 #1 87 U/L  PRTU             148                 
+塔山GS_塔莒三路221 #1 79 U/L  PRTU             149                 
+塔山GS_塔莒三路221 #2 87 U/L  PRTU             150                 
+塔山GS_塔莒三路221 #2 79 U/L  PRTU             151                 
+塔山GS_塔莒四路222 #1 87 U/L  PRTU             152                 
+塔山GS_塔莒四路222 #1 79 U/L  PRTU             153                 
+塔山GS_塔莒四路222 #2 87 U/L  PRTU             154                 
+塔山GS_塔莒四路222 #2 79 U/L  PRTU             155                 
+塔山GS_備用231 #1 87 U/L  PRTU               156                 
+塔山GS_備用231 #1 79 U/L  PRTU               157                 
+塔山GS_備用231 #2 87 U/L  PRTU               158                 
+塔山GS_備用231 #2 79 U/L  PRTU               159                 
+塔山GS_塔鵲二路232 #1 87 U/L  PRTU             160                 
+塔山GS_塔鵲二路232 #1 79 U/L  PRTU             161                 
+塔山GS_塔鵲二路232 #2 87 U/L  PRTU             162                 
+塔山GS_塔鵲二路232 #2 79 U/L  PRTU             163                 
+塔山GS_#9 GMTR #1 87T U/L  PRTU            164                 
+塔山GS_#9 GMTR #2 87T U/L  PRTU            165                 
+塔山GS_#9 GMTR 51Z U/L  PRTU               166                 
+塔山GS_#10 GMTR #1 87T U/L  PRTU           167                 
+塔山GS_#10 GMTR #2 87T U/L  PRTU           168                 
+塔山GS_#10 GMTR 51Z U/L  PRTU              169                 
+塔山GS_備用219 #1 87T U/L  PRTU              170                 
+塔山GS_備用219 #2 87T U/L  PRTU              171                 
+塔山GS_備用219 51Z U/L   PRTU                172                 
+塔山GS_#7 GMTR #1 87T U/L  PRTU            173                 
+塔山GS_#7 GMTR #2 87T U/L  PRTU            174                 
+塔山GS_#7 GMTR 51Z U/L  PRTU               175                 
+塔山GS_DO-176          PRTU                176                 
+塔山GS_22KV #3 BUS 87 U/L  PRTU            177                 
+塔山GS_22KV #4 BUS 87 U/L  PRTU            178                 
+塔山GS_DO-179          PRTU                179                 
+塔山GS_塔鵲二路232 2321 DS  PRTU               191                 
+塔山GS_塔鵲二路232 2322 DS  PRTU               192                 
+塔山GS_塔鵲二路232 2322E ES  PRTU              193                 
+塔山GS_#7 GMTR 2201 DS  PRTU               211                 
+塔山GS_#7 GMTR 2202 DS  PRTU               212                 
+塔山GS_#7 GMTR 2202E ES  PRTU              213                 
+塔山GS_DO-214          PRTU                214                 
+塔山GS_DO-215          PRTU                215                 
+塔山GS_DO-216          PRTU                216                 
+塔山GS_DO-217          PRTU                217                 
+塔山GS_DO-218          PRTU                218                 
+塔山GS_DO-219          PRTU                219                 
+塔山GS_DO-220          PRTU                220                 
+塔山GS_DO-221          PRTU                221                 
+塔山GS_DO-222          PRTU                222                 
+塔山GS_DO-223          PRTU                223                 
+塔山GS_DO-224          PRTU                224                 
+塔山GS_DO-225          PRTU                225                 
+塔山GS_DO-226          PRTU                226                 
+塔山GS_DO-227          PRTU                227                 
+塔山GS_DO-228          PRTU                228                 
+塔山GS_DO-229          PRTU                229                 
+塔山GS_DO-230          PRTU                230                 
+塔山GS_DO-231          PRTU                231                 
+塔山GS_DO-232          PRTU                232                 
+塔山GS_DO-233          PRTU                233                 
+塔山GS_DO-234          PRTU                234                 
+塔山GS_DO-235          PRTU                235                 
+塔山GS_DO-236          PRTU                236                 
+塔山GS_DO-237          PRTU                237                 
+塔山GS_DO-238          PRTU                238                 
+塔山GS_DO-239          PRTU                239                 
+塔山GS_DO-240          PRTU                240                 
+塔山GS_DO-241          PRTU                241                 
+塔山GS_DO-242          PRTU                242                 
+塔山GS_DO-243          PRTU                243                 
+塔山GS_DO-244          PRTU                244                 
+塔山GS_DO-245          PRTU                245                 
+塔山GS_DO-246          PRTU                246                 
+塔山GS_DO-247          PRTU                247                 
+塔山GS_DO-248          PRTU                248                 
+塔山GS_DO-249          PRTU                249                 
+塔山GS_DO-250          PRTU                250                 
+塔山GS_PRTU 通訊禁致能      PRTU                251                 
+塔山GS_PRTU 通訊次數重置     PRTU                252                 
+塔山GS_DO-253          PRTU                253                 
+塔山GS_DO-254          PRTU                254                 
+塔山GS_DO-255          PRTU                255                 
+塔山GS_DO-256          PRTU                256                 
+塔山GS_DO-257          PRTU                257                 
+塔山GS_DO-258          PRTU                258                 
+塔山GS_DO-259          PRTU                259                 
+塔山GS_DO-260          PRTU                260                 
+塔山GS_DO-261          PRTU                261                 
+塔山GS_DO-262          PRTU                262                 
+塔山GS_DO-263          PRTU                263                 
+塔山GS_DO-264          PRTU                264                 
+塔山GS_DO-265          PRTU                265                 
+塔山GS_DO-266          PRTU                266                 
+塔山GS_DO-267          PRTU                267                 
+塔山GS_DO-268          PRTU                268                 
+塔山GS_DO-269          PRTU                269                 
+塔山GS_DO-270          PRTU                270                 
+塔山GS_DO-271          PRTU                271                 
+塔山GS_DO-272          PRTU                272                 
+塔山GS_DO-273          PRTU                273                 
+塔山GS_DO-274          PRTU                274                 
+塔山GS_DO-275          PRTU                275                 
+塔山GS_DO-276          PRTU                276                 
+塔山GS_DO-277          PRTU                277                 
+塔山GS_DO-278          PRTU                278                 
+塔山GS_DO-279          PRTU                279                 
+塔山GS_DO-280          PRTU                280                 
+塔山GS_DO-281          PRTU                281                 
+塔山GS_DO-282          PRTU                282                 
+塔山GS_DO-283          PRTU                283                 
+塔山GS_DO-284          PRTU                284                 
+塔山GS_DO-285          PRTU                285                 
+塔山GS_DO-286          PRTU                286                 
+塔山GS_DO-287          PRTU                287                 
+塔山GS_DO-288          PRTU                288                 
+塔山GS_DO-289          PRTU                289                 
+塔山GS_DO-290          PRTU                290                 
+塔山GS_DO-291          PRTU                291                 
+塔山GS_DO-292          PRTU                292                 
+塔山GS_DO-293          PRTU                293                 
+塔山GS_DO-294          PRTU                294                 
+塔山GS_DO-295          PRTU                295                 
+塔山GS_DO-296          PRTU                296                 
+塔山GS_DO-297          PRTU                297                 
+塔山GS_DO-298          PRTU                298                 
+塔山GS_DO-299          PRTU                299                 
+塔山GS_DO-300          PRTU                300                 
+塔山GS_DO-301          PRTU                301                 
+塔山GS_DO-302          PRTU                302                 
+塔山GS_DO-303          PRTU                303                 
+塔山GS_DO-304          PRTU                304                 
+塔山GS_DO-305          PRTU                305                 
+塔山GS_DO-306          PRTU                306                 
+塔山GS_DO-307          PRTU                307                 
+塔山GS_DO-308          PRTU                308                 
+塔山GS_DO-309          PRTU                309                 
+塔山GS_DO-310          PRTU                310                 
+塔山GS_DO-311          PRTU                311                 
+塔山GS_DO-312          PRTU                312                 
+塔山GS_DO-313          PRTU                313                 
+塔山GS_DO-314          PRTU                314                 
+塔山GS_DO-315          PRTU                315                 
+塔山GS_DO-316          PRTU                316                 
+塔山GS_DO-317          PRTU                317                 
+塔山GS_DO-318          PRTU                318                 
+塔山GS_DO-319          PRTU                319                 
+塔山GS_DO-320          PRTU                320                 
+塔山GS_DO-321          PRTU                321                 
+塔山GS_DO-322          PRTU                322                 
+塔山GS_DO-323          PRTU                323                 
+塔山GS_DO-324          PRTU                324                 
+塔山GS_DO-325          PRTU                325                 
+塔山GS_DO-326          PRTU                326                 
+塔山GS_DO-327          PRTU                327                 
+塔山GS_DO-328          PRTU                328                 
+塔山GS_DO-329          PRTU                329                 
+塔山GS_DO-330          PRTU                330                 
+塔山GS_DO-331          PRTU                331                 
+塔山GS_DO-332          PRTU                332                 
+塔山GS_DO-333          PRTU                333                 
+塔山GS_DO-334          PRTU                334                 
+塔山GS_DO-335          PRTU                335                 
+塔山GS_DO-336          PRTU                336                 
+塔山GS_DO-337          PRTU                337                 
+塔山GS_DO-338          PRTU                338                 
+塔山GS_DO-339          PRTU                339                 
+塔山GS_DO-340          PRTU                340                 
+塔山GS_DO-341          PRTU                341                 
+塔山GS_DO-342          PRTU                342                 
+塔山GS_DO-343          PRTU                343                 
+塔山GS_DO-344          PRTU                344                 
+塔山GS_DO-345          PRTU                345                 
+塔山GS_DO-346          PRTU                346                 
+塔山GS_DO-347          PRTU                347                 
+塔山GS_DO-348          PRTU                348                 
+塔山GS_DO-349          PRTU                349                 
+塔山GS_DO-350          PRTU                350                 
+塔山GS_DO-351          PRTU                351                 
+塔山GS_DO-352          PRTU                352                 
+塔山GS_DO-353          PRTU                353                 
+塔山GS_DO-354          PRTU                354                 
+塔山GS_DO-355          PRTU                355                 
+塔山GS_DO-356          PRTU                356                 
+塔山GS_DO-357          PRTU                357                 
+塔山GS_DO-358          PRTU                358                 
+塔山GS_DO-359          PRTU                359                 
+塔山GS_DO-360          PRTU                360                 
+塔山GS_DO-361          PRTU                361                 
+塔山GS_DO-362          PRTU                362                 
+塔山GS_DO-363          PRTU                363                 
+塔山GS_DO-364          PRTU                364                 
+塔山GS_DO-365          PRTU                365                 
+塔山GS_DO-366          PRTU                366                 
+塔山GS_DO-367          PRTU                367                 
+塔山GS_DO-368          PRTU                368                 
+塔山GS_DO-369          PRTU                369                 
+塔山GS_DO-370          PRTU                370                 
+塔山GS_DO-371          PRTU                371                 
+塔山GS_DO-372          PRTU                372                 
+塔山GS_DO-373          PRTU                373                 
+塔山GS_DO-374          PRTU                374                 
+塔山GS_DO-375          PRTU                375                 
+塔山GS_DO-376          PRTU                376                 
+塔山GS_DO-377          PRTU                377                 
+塔山GS_DO-378          PRTU                378                 
+塔山GS_DO-379          PRTU                379                 
+塔山GS_DO-380          PRTU                380                 
+塔山GS_DO-381          PRTU                381                 
+塔山GS_DO-382          PRTU                382                 
+塔山GS_DO-383          PRTU                383                 
+塔山GS_DO-384          PRTU                384                 
+塔山GS_DO-385          PRTU                385                 
+塔山GS_DO-386          PRTU                386                 
+塔山GS_DO-387          PRTU                387                 
+塔山GS_DO-388          PRTU                388                 
+塔山GS_DO-389          PRTU                389                 
+塔山GS_DO-390          PRTU                390                 
+塔山GS_DO-391          PRTU                391                 
+塔山GS_DO-392          PRTU                392                 
+塔山GS_DO-393          PRTU                393                 
+塔山GS_DO-394          PRTU                394                 
+塔山GS_DO-395          PRTU                395                 
+塔山GS_DO-396          PRTU                396                 
+塔山GS_DO-397          PRTU                397                 
+塔山GS_DO-398          PRTU                398                 
+塔山GS_DO-399          PRTU                399                 
+莒光SS_PRTU 通訊狀態       PRTU                400                 
+莒光SS_TEST CB         PRTU                401                 
+莒光SS_塔莒一路 203 CB     PRTU                402                 
+莒光SS_塔莒一路 253 CB     PRTU                403                 
+莒光SS_塔莒二路 204 CB     PRTU                404                 
+莒光SS_塔莒二路 254 CB     PRTU                405                 
+莒光SS_塔莒三路 205 CB     PRTU                406                 
+莒光SS_塔莒三路 255 CB     PRTU                407                 
+莒光SS_塔莒四路 208 CB     PRTU                408                 
+莒光SS_塔莒四路 258 CB     PRTU                409                 
+莒光SS_#1 MTR 201 CB   PRTU                414                 
+莒光SS_#1 MTR 251 CB   PRTU                415                 
+莒光SS_#2 MTR 202 CB   PRTU                416                 
+莒光SS_#2 MTR 252 CB   PRTU                417                 
+莒光SS_DO-20           PRTU                420                 
+莒光SS_DO-21           PRTU                421                 
+莒光SS_饋線104 104 CB    PRTU                423                 
+莒光SS_民生線7B24 111 CB  PRTU                424                 
+莒光SS_酒廠三7B32 112 CB  PRTU                425                 
+莒光SS_民族線7B23 113 CB  PRTU                426                 
+莒光SS_鎮西線7B28 114 CB  PRTU                427                 
+莒光SS_古寧線7B29 115 CB  PRTU                428                 
+莒光SS_TIE 105 CB      PRTU                429                 
+莒光SS_伯玉線7B27 116 CB  PRTU                430                 
+莒光SS_民權線7B26 117 CB  PRTU                431                 
+莒光SS_高科技7B30 118 CB  PRTU                432                 
+莒光SS_#2 MTR 二次 102 CB  PRTU              433                 
+莒光SS_祥豐線7B22 103 CB  PRTU                434                 
+莒光SS_東坑線7B31 119 CB  PRTU                437                 
+莒光SS_向陽線7B25 120 CB  PRTU                438                 
+莒光SS_金山線7B21 121 CB  PRTU                439                 
+莒光SS_DO-40           PRTU                440                 
+莒光SS_DO-42           PRTU                442                 
+莒光SS_DO-43           PRTU                443                 
+莒光SS_DO-44           PRTU                444                 
+莒光SS_DO-45           PRTU                445                 
+莒光SS_DO-46           PRTU                446                 
+莒光SS_DO-47           PRTU                447                 
+莒光SS_DO-48           PRTU                448                 
+莒光SS_DO-49           PRTU                449                 
+莒光SS_DO-50           PRTU                450                 
+莒光SS_DO-51           PRTU                451                 
+莒光SS_DO-52           PRTU                452                 
+莒光SS_DO-54           PRTU                454                 
+莒光SS_DO-55           PRTU                455                 
+莒光SS_DO-56           PRTU                456                 
+莒光SS_DO-59           PRTU                459                 
+莒光SS_DO-60           PRTU                460                 
+莒光SS_DO-61           PRTU                461                 
+莒光SS_DO-62           PRTU                462                 
+莒光SS_DO-63           PRTU                463                 
+莒光SS_#1 MTR OLTC TAP  PRTU               465                 
+莒光SS_DO-66           PRTU                466                 
+莒光SS_#2 MTR OLTC TAP  PRTU               468                 
+莒光SS_DO-69           PRTU                469                 
+莒光SS_11/22KV警報 復歸    PRTU                494                 
+莒光SS_DO-96           PRTU                496                 
+莒光SS_TIE CB #1 87 U/L  PRTU              499                 
+莒光SS_TIE CB 50+2 S   PRTU                500                 
+莒光SS_DO-107          PRTU                507                 
+莒光SS_DO-108          PRTU                508                 
+莒光SS_DO-109          PRTU                509                 
+莒光SS_DO-110          PRTU                510                 
+莒光SS_DO-111          PRTU                511                 
+莒光SS_DO-112          PRTU                512                 
+莒光SS_DO-113          PRTU                513                 
+莒光SS_DO-114          PRTU                514                 
+莒光SS_DO-115          PRTU                515                 
+莒光SS_DO-116          PRTU                516                 
+莒光SS_DO-117          PRTU                517                 
+莒光SS_DO-118          PRTU                518                 
+莒光SS_DO-119          PRTU                519                 
+莒光SS_DO-120          PRTU                520                 
+莒光SS_DO-121          PRTU                521                 
+莒光SS_DO-122          PRTU                522                 
+莒光SS_DO-123          PRTU                523                 
+莒光SS_DO-124          PRTU                524                 
+莒光SS_DO-125          PRTU                525                 
+莒光SS_DO-126          PRTU                526                 
+莒光SS_DO-127          PRTU                527                 
+莒光SS_DO-128          PRTU                528                 
+莒光SS_DO-129          PRTU                529                 
+莒光SS_DO-130          PRTU                530                 
+莒光SS_DO-131          PRTU                531                 
+莒光SS_DO-132          PRTU                532                 
+莒光SS_DO-133          PRTU                533                 
+莒光SS_DO-134          PRTU                534                 
+莒光SS_DO-135          PRTU                535                 
+莒光SS_DO-136          PRTU                536                 
+莒光SS_DO-137          PRTU                537                 
+莒光SS_DO-138          PRTU                538                 
+莒光SS_DO-139          PRTU                539                 
+莒光SS_DO-140          PRTU                540                 
+莒光SS_DO-141          PRTU                541                 
+莒光SS_DO-142          PRTU                542                 
+莒光SS_DO-143          PRTU                543                 
+莒光SS_DO-144          PRTU                544                 
+莒光SS_DO-145          PRTU                545                 
+莒光SS_DO-146          PRTU                546                 
+莒光SS_DO-147          PRTU                547                 
+莒光SS_DO-148          PRTU                548                 
+莒光SS_DO-149          PRTU                549                 
+莒光SS_DO-150          PRTU                550                 
+莒光SS_DO-151          PRTU                551                 
+莒光SS_DO-152          PRTU                552                 
+莒光SS_DO-153          PRTU                553                 
+莒光SS_DO-154          PRTU                554                 
+莒光SS_DO-155          PRTU                555                 
+莒光SS_DO-156          PRTU                556                 
+莒光SS_DO-157          PRTU                557                 
+莒光SS_DO-158          PRTU                558                 
+莒光SS_DO-159          PRTU                559                 
+莒光SS_DO-160          PRTU                560                 
+莒光SS_DO-161          PRTU                561                 
+莒光SS_DO-162          PRTU                562                 
+莒光SS_DO-163          PRTU                563                 
+莒光SS_DO-164          PRTU                564                 
+莒光SS_DO-165          PRTU                565                 
+莒光SS_DO-166          PRTU                566                 
+莒光SS_DO-167          PRTU                567                 
+莒光SS_DO-168          PRTU                568                 
+莒光SS_DO-169          PRTU                569                 
+莒光SS_DO-170          PRTU                570                 
+莒光SS_DO-171          PRTU                571                 
+莒光SS_DO-172          PRTU                572                 
+莒光SS_DO-173          PRTU                573                 
+莒光SS_DO-174          PRTU                574                 
+莒光SS_DO-175          PRTU                575                 
+莒光SS_DO-176          PRTU                576                 
+莒光SS_DO-177          PRTU                577                 
+莒光SS_DO-178          PRTU                578                 
+莒光SS_DO-179          PRTU                579                 
+莒光SS_DO-180          PRTU                580                 
+莒光SS_DO-181          PRTU                581                 
+莒光SS_DO-182          PRTU                582                 
+莒光SS_DO-183          PRTU                583                 
+莒光SS_DO-184          PRTU                584                 
+莒光SS_DO-185          PRTU                585                 
+莒光SS_DO-186          PRTU                586                 
+莒光SS_DO-187          PRTU                587                 
+莒光SS_DO-188          PRTU                588                 
+莒光SS_DO-189          PRTU                589                 
+莒光SS_DO-190          PRTU                590                 
+莒光SS_DO-191          PRTU                591                 
+莒光SS_DO-192          PRTU                592                 
+莒光SS_DO-193          PRTU                593                 
+莒光SS_DO-194          PRTU                594                 
+莒光SS_DO-195          PRTU                595                 
+莒光SS_DO-196          PRTU                596                 
+莒光SS_DO-197          PRTU                597                 
+莒光SS_DO-198          PRTU                598                 
+莒光SS_DO-199          PRTU                599                 
+莒光SS_DO-200          PRTU                600                 
+莒光SS_DO-201          PRTU                601                 
+莒光SS_DO-202          PRTU                602                 
+莒光SS_DO-203          PRTU                603                 
+莒光SS_DO-204          PRTU                604                 
+莒光SS_DO-205          PRTU                605                 
+莒光SS_DO-206          PRTU                606                 
+莒光SS_DO-207          PRTU                607                 
+莒光SS_DO-208          PRTU                608                 
+莒光SS_DO-209          PRTU                609                 
+莒光SS_DO-210          PRTU                610                 
+莒光SS_DO-211          PRTU                611                 
+莒光SS_DO-212          PRTU                612                 
+莒光SS_DO-213          PRTU                613                 
+莒光SS_DO-214          PRTU                614                 
+莒光SS_DO-215          PRTU                615                 
+莒光SS_DO-216          PRTU                616                 
+莒光SS_DO-217          PRTU                617                 
+莒光SS_DO-218          PRTU                618                 
+莒光SS_DO-219          PRTU                619                 
+莒光SS_DO-220          PRTU                620                 
+莒光SS_DO-221          PRTU                621                 
+莒光SS_DO-222          PRTU                622                 
+莒光SS_DO-223          PRTU                623                 
+莒光SS_DO-224          PRTU                624                 
+莒光SS_DO-225          PRTU                625                 
+莒光SS_DO-226          PRTU                626                 
+莒光SS_DO-227          PRTU                627                 
+莒光SS_DO-228          PRTU                628                 
+莒光SS_DO-229          PRTU                629                 
+莒光SS_DO-230          PRTU                630                 
+莒光SS_DO-231          PRTU                631                 
+莒光SS_DO-232          PRTU                632                 
+莒光SS_DO-233          PRTU                633                 
+莒光SS_DO-234          PRTU                634                 
+莒光SS_DO-235          PRTU                635                 
+莒光SS_DO-236          PRTU                636                 
+莒光SS_DO-237          PRTU                637                 
+莒光SS_DO-238          PRTU                638                 
+莒光SS_DO-239          PRTU                639                 
+莒光SS_DO-240          PRTU                640                 
+莒光SS_DO-241          PRTU                641                 
+莒光SS_DO-242          PRTU                642                 
+莒光SS_DO-243          PRTU                643                 
+莒光SS_DO-244          PRTU                644                 
+莒光SS_DO-245          PRTU                645                 
+莒光SS_DO-246          PRTU                646                 
+莒光SS_DO-247          PRTU                647                 
+莒光SS_DO-248          PRTU                648                 
+莒光SS_DO-249          PRTU                649                 
+莒光SS_DO-250          PRTU                650                 
+莒光SS_PRTU 通訊禁致能      PRTU                651                 
+莒光SS_PRTU 通訊次數重置     PRTU                652                 
+莒光SS_DO-253          PRTU                653                 
+莒光SS_DO-254          PRTU                654                 
+莒光SS_DO-255          PRTU                655                 
+莒光SS_DO-256          PRTU                656                 
+莒光SS_DO-257          PRTU                657                 
+莒光SS_DO-258          PRTU                658                 
+莒光SS_DO-259          PRTU                659                 
+莒光SS_DO-260          PRTU                660                 
+莒光SS_DO-261          PRTU                661                 
+莒光SS_DO-262          PRTU                662                 
+莒光SS_DO-263          PRTU                663                 
+莒光SS_DO-264          PRTU                664                 
+莒光SS_DO-265          PRTU                665                 
+莒光SS_DO-266          PRTU                666                 
+莒光SS_DO-267          PRTU                667                 
+莒光SS_DO-268          PRTU                668                 
+莒光SS_DO-269          PRTU                669                 
+莒光SS_DO-270          PRTU                670                 
+莒光SS_DO-271          PRTU                671                 
+莒光SS_DO-272          PRTU                672                 
+莒光SS_DO-273          PRTU                673                 
+莒光SS_DO-274          PRTU                674                 
+莒光SS_DO-275          PRTU                675                 
+莒光SS_DO-276          PRTU                676                 
+莒光SS_DO-277          PRTU                677                 
+莒光SS_DO-278          PRTU                678                 
+莒光SS_DO-279          PRTU                679                 
+莒光SS_DO-280          PRTU                680                 
+莒光SS_DO-281          PRTU                681                 
+莒光SS_DO-282          PRTU                682                 
+莒光SS_DO-283          PRTU                683                 
+莒光SS_DO-284          PRTU                684                 
+莒光SS_DO-285          PRTU                685                 
+莒光SS_DO-286          PRTU                686                 
+莒光SS_DO-287          PRTU                687                 
+莒光SS_DO-288          PRTU                688                 
+莒光SS_DO-289          PRTU                689                 
+莒光SS_DO-290          PRTU                690                 
+莒光SS_DO-291          PRTU                691                 
+莒光SS_DO-292          PRTU                692                 
+莒光SS_DO-293          PRTU                693                 
+莒光SS_DO-294          PRTU                694                 
+莒光SS_DO-295          PRTU                695                 
+莒光SS_DO-296          PRTU                696                 
+莒光SS_DO-297          PRTU                697                 
+莒光SS_DO-298          PRTU                698                 
+莒光SS_DO-299          PRTU                699                 
+莒光SS_DO-300          PRTU                700                 
+莒光SS_DO-301          PRTU                701                 
+莒光SS_DO-302          PRTU                702                 
+莒光SS_DO-303          PRTU                703                 
+莒光SS_DO-304          PRTU                704                 
+莒光SS_DO-305          PRTU                705                 
+莒光SS_DO-306          PRTU                706                 
+莒光SS_DO-307          PRTU                707                 
+莒光SS_DO-308          PRTU                708                 
+莒光SS_DO-309          PRTU                709                 
+莒光SS_DO-310          PRTU                710                 
+莒光SS_DO-311          PRTU                711                 
+莒光SS_DO-312          PRTU                712                 
+莒光SS_DO-313          PRTU                713                 
+莒光SS_DO-314          PRTU                714                 
+莒光SS_DO-315          PRTU                715                 
+莒光SS_DO-316          PRTU                716                 
+莒光SS_DO-317          PRTU                717                 
+莒光SS_DO-318          PRTU                718                 
+莒光SS_DO-319          PRTU                719                 
+莒光SS_DO-320          PRTU                720                 
+莒光SS_DO-321          PRTU                721                 
+莒光SS_DO-322          PRTU                722                 
+莒光SS_DO-323          PRTU                723                 
+莒光SS_DO-324          PRTU                724                 
+莒光SS_DO-325          PRTU                725                 
+莒光SS_DO-326          PRTU                726                 
+莒光SS_DO-327          PRTU                727                 
+莒光SS_DO-328          PRTU                728                 
+莒光SS_DO-329          PRTU                729                 
+莒光SS_DO-330          PRTU                730                 
+莒光SS_DO-331          PRTU                731                 
+莒光SS_DO-332          PRTU                732                 
+莒光SS_DO-333          PRTU                733                 
+莒光SS_DO-334          PRTU                734                 
+莒光SS_DO-335          PRTU                735                 
+莒光SS_DO-336          PRTU                736                 
+莒光SS_DO-337          PRTU                737                 
+莒光SS_DO-338          PRTU                738                 
+莒光SS_DO-339          PRTU                739                 
+莒光SS_DO-340          PRTU                740                 
+莒光SS_DO-341          PRTU                741                 
+莒光SS_DO-342          PRTU                742                 
+莒光SS_DO-343          PRTU                743                 
+莒光SS_DO-344          PRTU                744                 
+莒光SS_DO-345          PRTU                745                 
+莒光SS_DO-346          PRTU                746                 
+莒光SS_DO-347          PRTU                747                 
+莒光SS_DO-348          PRTU                748                 
+莒光SS_DO-349          PRTU                749                 
+莒光SS_DO-350          PRTU                750                 
+莒光SS_DO-351          PRTU                751                 
+莒光SS_DO-352          PRTU                752                 
+莒光SS_DO-353          PRTU                753                 
+莒光SS_DO-354          PRTU                754                 
+莒光SS_DO-355          PRTU                755                 
+莒光SS_DO-356          PRTU                756                 
+莒光SS_DO-357          PRTU                757                 
+莒光SS_DO-358          PRTU                758                 
+莒光SS_DO-359          PRTU                759                 
+莒光SS_DO-360          PRTU                760                 
+莒光SS_DO-361          PRTU                761                 
+莒光SS_DO-362          PRTU                762                 
+莒光SS_DO-363          PRTU                763                 
+莒光SS_DO-364          PRTU                764                 
+莒光SS_DO-365          PRTU                765                 
+莒光SS_DO-366          PRTU                766                 
+莒光SS_DO-367          PRTU                767                 
+莒光SS_DO-368          PRTU                768                 
+莒光SS_DO-369          PRTU                769                 
+莒光SS_DO-370          PRTU                770                 
+莒光SS_DO-371          PRTU                771                 
+莒光SS_DO-372          PRTU                772                 
+莒光SS_DO-373          PRTU                773                 
+莒光SS_DO-374          PRTU                774                 
+莒光SS_DO-375          PRTU                775                 
+莒光SS_DO-376          PRTU                776                 
+莒光SS_DO-377          PRTU                777                 
+莒光SS_DO-378          PRTU                778                 
+莒光SS_DO-379          PRTU                779                 
+莒光SS_DO-380          PRTU                780                 
+莒光SS_DO-381          PRTU                781                 
+莒光SS_DO-382          PRTU                782                 
+莒光SS_DO-383          PRTU                783                 
+莒光SS_DO-384          PRTU                784                 
+莒光SS_DO-385          PRTU                785                 
+莒光SS_DO-386          PRTU                786                 
+莒光SS_DO-387          PRTU                787                 
+莒光SS_DO-388          PRTU                788                 
+莒光SS_DO-389          PRTU                789                 
+莒光SS_DO-390          PRTU                790                 
+莒光SS_DO-391          PRTU                791                 
+莒光SS_DO-392          PRTU                792                 
+莒光SS_DO-393          PRTU                793                 
+莒光SS_DO-394          PRTU                794                 
+莒光SS_DO-395          PRTU                795                 
+莒光SS_DO-396          PRTU                796                 
+莒光SS_DO-397          PRTU                797                 
+莒光SS_DO-398          PRTU                798                 
+莒光SS_DO-399          PRTU                799                 
+Z9649EE9004-金城 FTU通訊狀態  FTU              800                 
+Z9649EE9004-金城 左LBS開關  FTU               801                 
+Z9649EE9004-金城 左CB開關  FTU                802                 
+Z9649EE9004-金城 右LBS開關  FTU               803                 
+Z9649EE9004-金城 右CB開關  FTU                804                 
+Z9649EE9004-金城 FTU電池充放電  FTU             805                 
+Z9649EE9004-金城 RESERVE-CO-07  FTU        806                 
+Z9649EE9004-金城 RESERVE-CO-08  FTU        807                 
+Z9849FB02-金城 FTU通訊狀態  FTU                808                 
+Z9849FB02-金城 左LBS開關  FTU                 809                 
+Z9849FB02-金城 左CB開關   FTU                 810                 
+Z9849FB02-金城 右LBS開關  FTU                 811                 
+Z9849FB02-金城 右CB開關   FTU                 812                 
+Z9849FB02-金城 FTU電池充放電  FTU               813                 
+Z9849FB02-金城 RESERVE-CO-07  FTU          814                 
+Z9849FB02-金城 RESERVE-CO-08  FTU          815                 
+Z9951HA34-金城 FTU通訊狀態  FTU                816                 
+Z9951HA34-金城 左LBS開關  FTU                 817                 
+Z9951HA34-金城 左CB開關   FTU                 818                 
+Z9951HA34-金城 右LBS開關  FTU                 819                 
+Z9951HA34-金城 右CB開關   FTU                 820                 
+Z9951HA34-金城 FTU電池充放電  FTU               821                 
+Z9951HA34-金城 RESERVE-CO-07  FTU          822                 
+Z9951HA34-金城 RESERVE-CO-08  FTU          823                 
+Z0053EA0524-民族 FTU通訊狀態  FTU              824                 
+Z0053EA0524-民族 左LBS開關  FTU               825                 
+Z0053EA0524-民族 左CB開關  FTU                826                 
+Z0053EA0524-民族 右LBS開關  FTU               827                 
+Z0053EA0524-民族 右CB開關  FTU                828                 
+Z0053EA0524-民族 FTU電池充放電  FTU             829                 
+Z0053EA0524-民族 RESERVE-CO-07  FTU        830                 
+Z0053EA0524-民族 RESERVE-CO-08  FTU        831                 
+Z0153BA7116-民族 FTU通訊狀態  FTU              832                 
+Z0153BA7116-民族 左LBS開關  FTU               833                 
+Z0153BA7116-民族 左CB開關  FTU                834                 
+Z0153BA7116-民族 右LBS開關  FTU               835                 
+Z0153BA7116-民族 右CB開關  FTU                836                 
+Z0153BA7116-民族 FTU電池充放電  FTU             837                 
+Z0153BA7116-民族 RESERVE-CO-07  FTU        838                 
+Z0153BA7116-民族 RESERVE-CO-08  FTU        839                 
+Z0454BB74-酒二 FTU通訊狀態  FTU                840                 
+Z0454BB74-酒二 左LBS開關  FTU                 841                 
+Z0454BB74-酒二 左CB開關   FTU                 842                 
+Z0454BB74-酒二 右LBS開關  FTU                 843                 
+Z0454BB74-酒二 右CB開關   FTU                 844                 
+Z0454BB74-酒二 FTU電池充放電  FTU               845                 
+Z0454BB74-酒二 RESERVE-CO-07  FTU          846                 
+Z0454BB74-酒二 RESERVE-CO-08  FTU          847                 
+Z0254AE8581-伯玉 FTU通訊狀態  FTU              848                 
+Z0254AE8581-伯玉 左LBS開關  FTU               849                 
+Z0254AE8581-伯玉 左CB開關  FTU                850                 
+Z0254AE8581-伯玉 右LBS開關  FTU               851                 
+Z0254AE8581-伯玉 右CB開關  FTU                852                 
+Z0254AE8581-伯玉 FTU電池充放電  FTU             853                 
+Z0254AE8581-伯玉 RESERVE-CO-07  FTU        854                 
+Z0254AE8581-伯玉 RESERVE-CO-08  FTU        855                 
+Z9947CD70-古崗 FTU通訊狀態  FTU                856                 
+Z9947CD70-古崗 左LBS開關  FTU                 857                 
+Z9947CD70-古崗 左CB開關   FTU                 858                 
+Z9947CD70-古崗 右LBS開關  FTU                 859                 
+Z9947CD70-古崗 右CB開關   FTU                 860                 
+Z9947CD70-古崗 FTU電池充放電  FTU               861                 
+Z9947CD70-古崗 RESERVE-CO-07  FTU          862                 
+Z9947CD70-古崗 RESERVE-CO-08  FTU          863                 
+Z0047HB54-古崗 FTU通訊狀態  FTU                864                 
+Z0047HB54-古崗 左LBS開關  FTU                 865                 
+Z0047HB54-古崗 左CB開關   FTU                 866                 
+Z0047HB54-古崗 右LBS開關  FTU                 867                 
+Z0047HB54-古崗 右CB開關   FTU                 868                 
+Z0047HB54-古崗 FTU電池充放電  FTU               869                 
+Z0047HB54-古崗 RESERVE-CO-07  FTU          870                 
+Z0047HB54-古崗 RESERVE-CO-08  FTU          871                 
+Z0049GC3667-古崗 FTU通訊狀態  FTU              872                 
+Z0049GC3667-古崗 左LBS開關  FTU               873                 
+Z0049GC3667-古崗 左CB開關  FTU                874                 
+Z0049GC3667-古崗 右LBS開關  FTU               875                 
+Z0049GC3667-古崗 右CB開關  FTU                876                 
+Z0049GC3667-古崗 FTU電池充放電  FTU             877                 
+Z0049GC3667-古崗 RESERVE-CO-07  FTU        878                 
+Z0049GC3667-古崗 RESERVE-CO-08  FTU        879                 
+Z0249BD2604-古崗 FTU通訊狀態  FTU              880                 
+Z0249BD2604-古崗 左LBS開關  FTU               881                 
+Z0249BD2604-古崗 左CB開關  FTU                882                 
+Z0249BD2604-古崗 右LBS開關  FTU               883                 
+Z0249BD2604-古崗 右CB開關  FTU                884                 
+Z0249BD2604-古崗 FTU電池充放電  FTU             885                 
+Z0249BD2604-古崗 RESERVE-CO-07  FTU        886                 
+Z0249BD2604-古崗 RESERVE-CO-08  FTU        887                 
+Z0453DC02-鎮西 FTU通訊狀態  FTU                888                 
+Z0453DC02-鎮西 左LBS開關  FTU                 889                 
+Z0453DC02-鎮西 左CB開關   FTU                 890                 
+Z0453DC02-鎮西 右LBS開關  FTU                 891                 
+Z0453DC02-鎮西 右CB開關   FTU                 892                 
+Z0453DC02-鎮西 FTU電池充放電  FTU               893                 
+Z0453DC02-鎮西 RESERVE-CO-07  FTU          894                 
+Z0453DC02-鎮西 RESERVE-CO-08  FTU          895                 
+Z0356AE75-鎮西 FTU通訊狀態  FTU                896                 
+Z0356AE75-鎮西 左LBS開關  FTU                 897                 
+Z0356AE75-鎮西 左CB開關   FTU                 898                 
+Z0356AE75-鎮西 右LBS開關  FTU                 899                 
+Z0356AE75-鎮西 右CB開關   FTU                 900                 
+Z0356AE75-鎮西 FTU電池充放電  FTU               901                 
+Z0356AE75-鎮西 RESERVE-CO-07  FTU          902                 
+Z0356AE75-鎮西 RESERVE-CO-08  FTU          903                 
+Z0253DE09-鎮西 FTU通訊狀態  FTU                904                 
+Z0253DE09-鎮西 左LBS開關  FTU                 905                 
+Z0253DE09-鎮西 左CB開關   FTU                 906                 
+Z0253DE09-鎮西 右LBS開關  FTU                 907                 
+Z0253DE09-鎮西 右CB開關   FTU                 908                 
+Z0253DE09-鎮西 FTU電池充放電  FTU               909                 
+Z0253DE09-鎮西 RESERVE-CO-07  FTU          910                 
+Z0253DE09-鎮西 RESERVE-CO-08  FTU          911                 
+Z0252AC15-鎮西 FTU通訊狀態  FTU                912                 
+Z0252AC15-鎮西 左LBS開關  FTU                 913                 
+Z0252AC15-鎮西 左CB開關   FTU                 914                 
+Z0252AC15-鎮西 右LBS開關  FTU                 915                 
+Z0252AC15-鎮西 右CB開關   FTU                 916                 
+Z0252AC15-鎮西 FTU電池充放電  FTU               917                 
+Z0252AC15-鎮西 RESERVE-CO-07  FTU          918                 
+Z0252AC15-鎮西 RESERVE-CO-08  FTU          919                 
+Z9946AD62-酒廠 FTU通訊狀態  FTU                920                 
+Z9946AD62-酒廠 左LBS開關  FTU                 921                 
+Z9946AD62-酒廠 左CB開關   FTU                 922                 
+Z9946AD62-酒廠 右LBS開關  FTU                 923                 
+Z9946AD62-酒廠 右CB開關   FTU                 924                 
+Z9946AD62-酒廠 FTU電池充放電  FTU               925                 
+Z9946AD62-酒廠 RESERVE-CO-07  FTU          926                 
+Z9946AD62-酒廠 RESERVE-CO-08  FTU          927                 
+Z0353FB19-金山 FTU通訊狀態  FTU                928                 
+Z0353FB19-金山 左LBS開關  FTU                 929                 
+Z0353FB19-金山 左CB開關   FTU                 930                 
+Z0353FB19-金山 右LBS開關  FTU                 931                 
+Z0353FB19-金山 右CB開關   FTU                 932                 
+Z0353FB19-金山 FTU電池充放電  FTU               933                 
+Z0353FB19-金山 RESERVE-CO-07  FTU          934                 
+Z0353FB19-金山 RESERVE-CO-08  FTU          935                 
+Z0554BE80-金山 FTU通訊狀態  FTU                936                 
+Z0554BE80-金山 左LBS開關  FTU                 937                 
+Z0554BE80-金山 左CB開關   FTU                 938                 
+Z0554BE80-金山 右LBS開關  FTU                 939                 
+Z0554BE80-金山 右CB開關   FTU                 940                 
+Z0554BE80-金山 FTU電池充放電  FTU               941                 
+Z0554BE80-金山 RESERVE-CO-07  FTU          942                 
+Z0554BE80-金山 RESERVE-CO-08  FTU          943                 
+Z0655EE29-金山 FTU通訊狀態  FTU                944                 
+Z0655EE29-金山 左LBS開關  FTU                 945                 
+Z0655EE29-金山 左CB開關   FTU                 946                 
+Z0655EE29-金山 右LBS開關  FTU                 947                 
+Z0655EE29-金山 右CB開關   FTU                 948                 
+Z0655EE29-金山 FTU電池充放電  FTU               949                 
+Z0655EE29-金山 RESERVE-CO-07  FTU          950                 
+Z0655EE29-金山 RESERVE-CO-08  FTU          951                 
+Z0856BC34-金山 FTU通訊狀態  FTU                952                 
+Z0856BC34-金山 左LBS開關  FTU                 953                 
+Z0856BC34-金山 左CB開關   FTU                 954                 
+Z0856BC34-金山 右LBS開關  FTU                 955                 
+Z0856BC34-金山 右CB開關   FTU                 956                 
+Z0856BC34-金山 FTU電池充放電  FTU               957                 
+Z0856BC34-金山 RESERVE-CO-07  FTU          958                 
+Z0856BC34-金山 RESERVE-CO-08  FTU          959                 
+Z0956ED68-高科 FTU通訊狀態  FTU                960                 
+Z0956ED68-高科 左LBS開關  FTU                 961                 
+Z0956ED68-高科 左CB開關   FTU                 962                 
+Z0956ED68-高科 右LBS開關  FTU                 963                 
+Z0956ED68-高科 右CB開關   FTU                 964                 
+Z0956ED68-高科 FTU電池充放電  FTU               965                 
+Z0956ED68-高科 RESERVE-CO-07  FTU          966                 
+Z0956ED68-高科 RESERVE-CO-08  FTU          967                 
+Z0659FD5500-高科 FTU通訊狀態  FTU              968                 
+Z0659FD5500-高科 左LBS開關  FTU               969                 
+Z0659FD5500-高科 左CB開關  FTU                970                 
+Z0659FD5500-高科 右LBS開關  FTU               971                 
+Z0659FD5500-高科 右CB開關  FTU                972                 
+Z0659FD5500-高科 FTU電池充放電  FTU             973                 
+Z0659FD5500-高科 RESERVE-CO-07  FTU        974                 
+Z0659FD5500-高科 RESERVE-CO-08  FTU        975                 
+Z0156GD84-高科 FTU通訊狀態  FTU                976                 
+Z0156GD84-高科 左LBS開關  FTU                 977                 
+Z0156GD84-高科 左CB開關   FTU                 978                 
+Z0156GD84-高科 右LBS開關  FTU                 979                 
+Z0156GD84-高科 右CB開關   FTU                 980                 
+Z0156GD84-高科 FTU電池充放電  FTU               981                 
+Z0156GD84-高科 RESERVE-CO-07  FTU          982                 
+Z0156GD84-高科 RESERVE-CO-08  FTU          983                 
+Z0152BD19-祥豐 FTU通訊狀態  FTU                984                 
+Z0152BD19-祥豐 左LBS開關  FTU                 985                 
+Z0152BD19-祥豐 左CB開關   FTU                 986                 
+Z0152BD19-祥豐 右LBS開關  FTU                 987                 
+Z0152BD19-祥豐 右CB開關   FTU                 988                 
+Z0152BD19-祥豐 FTU電池充放電  FTU               989                 
+Z0152BD19-祥豐 RESERVE-CO-07  FTU          990                 
+Z0152BD19-祥豐 RESERVE-CO-08  FTU          991                 
+Z0055HD40-祥豐 FTU通訊狀態  FTU                992                 
+Z0055HD40-祥豐 左LBS開關  FTU                 993                 
+Z0055HD40-祥豐 左CB開關   FTU                 994                 
+Z0055HD40-祥豐 右LBS開關  FTU                 995                 
+Z0055HD40-祥豐 右CB開關   FTU                 996                 
+Z0055HD40-祥豐 FTU電池充放電  FTU               997                 
+Z0055HD40-祥豐 RESERVE-CO-07  FTU          998                 
+Z0055HD40-祥豐 RESERVE-CO-08  FTU          999                 
+Z0155DD20-民權 FTU通訊狀態  FTU                1000                
+Z0155DD20-民權 左LBS開關  FTU                 1001                
+Z0155DD20-民權 左CB開關   FTU                 1002                
+Z0155DD20-民權 右LBS開關  FTU                 1003                
+Z0155DD20-民權 右CB開關   FTU                 1004                
+Z0155DD20-民權 FTU電池充放電  FTU               1005                
+Z0155DD20-民權 RESERVE-CO-07  FTU          1006                
+Z0155DD20-民權 RESERVE-CO-08  FTU          1007                
+Z0054GE97-民權 FTU通訊狀態  FTU                1008                
+Z0054GE97-民權 左LBS開關  FTU                 1009                
+Z0054GE97-民權 左CB開關   FTU                 1010                
+Z0054GE97-民權 右LBS開關  FTU                 1011                
+Z0054GE97-民權 右CB開關   FTU                 1012                
+Z0054GE97-民權 FTU電池充放電  FTU               1013                
+Z0054GE97-民權 RESERVE-CO-07  FTU          1014                
+Z0054GE97-民權 RESERVE-CO-08  FTU          1015                
+Z0153BE14-民生 FTU通訊狀態  FTU                1016                
+Z0153BE14-民生 左LBS開關  FTU                 1017                
+Z0153BE14-民生 左CB開關   FTU                 1018                
+Z0153BE14-民生 右LBS開關  FTU                 1019                
+Z0153BE14-民生 右CB開關   FTU                 1020                
+Z0153BE14-民生 FTU電池充放電  FTU               1021                
+Z0153BE14-民生 RESERVE-CO-07  FTU          1022                
+Z0153BE14-民生 RESERVE-CO-08  FTU          1023                
+Z0054GB3909-民生 FTU通訊狀態  FTU              1024                
+Z0054GB3909-民生 左LBS開關  FTU               1025                
+Z0054GB3909-民生 左CB開關  FTU                1026                
+Z0054GB3909-民生 右LBS開關  FTU               1027                
+Z0054GB3909-民生 右CB開關  FTU                1028                
+Z0054GB3909-民生 FTU電池充放電  FTU             1029                
+Z0054GB3909-民生 RESERVE-CO-07  FTU        1030                
+Z0054GB3909-民生 RESERVE-CO-08  FTU        1031                
+Z0054DC74-民生 FTU通訊狀態  FTU                1032                
+Z0054DC74-民生 左LBS開關  FTU                 1033                
+Z0054DC74-民生 左CB開關   FTU                 1034                
+Z0054DC74-民生 右LBS開關  FTU                 1035                
+Z0054DC74-民生 右CB開關   FTU                 1036                
+Z0054DC74-民生 FTU電池充放電  FTU               1037                
+Z0054DC74-民生 RESERVE-CO-07  FTU          1038                
+Z0054DC74-民生 RESERVE-CO-08  FTU          1039                
+Z0053BC89-向陽 FTU通訊狀態  FTU                1040                
+Z0053BC89-向陽 左LBS開關  FTU                 1041                
+Z0053BC89-向陽 左CB開關   FTU                 1042                
+Z0053BC89-向陽 右LBS開關  FTU                 1043                
+Z0053BC89-向陽 右CB開關   FTU                 1044                
+Z0053BC89-向陽 FTU電池充放電  FTU               1045                
+Z0053BC89-向陽 RESERVE-CO-07  FTU          1046                
+Z0053BC89-向陽 RESERVE-CO-08  FTU          1047                
+Z0258HA78-古寧 FTU通訊狀態  FTU                1048                
+Z0258HA78-古寧 左LBS開關  FTU                 1049                
+Z0258HA78-古寧 左CB開關   FTU                 1050                
+Z0258HA78-古寧 右LBS開關  FTU                 1051                
+Z0258HA78-古寧 右CB開關   FTU                 1052                
+Z0258HA78-古寧 FTU電池充放電  FTU               1053                
+Z0258HA78-古寧 RESERVE-CO-07  FTU          1054                
+Z0258HA78-古寧 RESERVE-CO-08  FTU          1055                
+Z0259CB03-古寧 FTU通訊狀態  FTU                1056                
+Z0259CB03-古寧 左LBS開關  FTU                 1057                
+Z0259CB03-古寧 左CB開關   FTU                 1058                
+Z0259CB03-古寧 右LBS開關  FTU                 1059                
+Z0259CB03-古寧 右CB開關   FTU                 1060                
+Z0259CB03-古寧 FTU電池充放電  FTU               1061                
+Z0259CB03-古寧 RESERVE-CO-07  FTU          1062                
+Z0259CB03-古寧 RESERVE-CO-08  FTU          1063                
+Z0160FB31-古寧 FTU通訊狀態  FTU                1064                
+Z0160FB31-古寧 左LBS開關  FTU                 1065                
+Z0160FB31-古寧 左CB開關   FTU                 1066                
+Z0160FB31-古寧 右LBS開關  FTU                 1067                
+Z0160FB31-古寧 右CB開關   FTU                 1068                
+Z0160FB31-古寧 FTU電池充放電  FTU               1069                
+Z0160FB31-古寧 RESERVE-CO-07  FTU          1070                
+Z0160FB31-古寧 RESERVE-CO-08  FTU          1071                
+Z0063EA87-古寧 FTU通訊狀態  FTU                1072                
+Z0063EA87-古寧 左LBS開關  FTU                 1073                
+Z0063EA87-古寧 左CB開關   FTU                 1074                
+Z0063EA87-古寧 右LBS開關  FTU                 1075                
+Z0063EA87-古寧 右CB開關   FTU                 1076                
+Z0063EA87-古寧 FTU電池充放電  FTU               1077                
+Z0063EA87-古寧 RESERVE-CO-07  FTU          1078                
+Z0063EA87-古寧 RESERVE-CO-08  FTU          1079                
+Z0059CB65-東坑 FTU通訊狀態  FTU                1080                
+Z0059CB65-東坑 左LBS開關  FTU                 1081                
+Z0059CB65-東坑 左CB開關   FTU                 1082                
+Z0059CB65-東坑 右LBS開關  FTU                 1083                
+Z0059CB65-東坑 右CB開關   FTU                 1084                
+Z0059CB65-東坑 FTU電池充放電  FTU               1085                
+Z0059CB65-東坑 RESERVE-CO-07  FTU          1086                
+Z0059CB65-東坑 RESERVE-CO-08  FTU          1087                
+Z9957EE70-東坑 FTU通訊狀態  FTU                1088                
+Z9957EE70-東坑 左LBS開關  FTU                 1089                
+Z9957EE70-東坑 左CB開關   FTU                 1090                
+Z9957EE70-東坑 右LBS開關  FTU                 1091                
+Z9957EE70-東坑 右CB開關   FTU                 1092                
+Z9957EE70-東坑 FTU電池充放電  FTU               1093                
+Z9957EE70-東坑 RESERVE-CO-07  FTU          1094                
+Z9957EE70-東坑 RESERVE-CO-08  FTU          1095                
+Z9954HC81-東坑 FTU通訊狀態  FTU                1096                
+Z9954HC81-東坑 左LBS開關  FTU                 1097                
+Z9954HC81-東坑 左CB開關   FTU                 1098                
+Z9954HC81-東坑 右LBS開關  FTU                 1099                
+Z9954HC81-東坑 右CB開關   FTU                 1100                
+Z9954HC81-東坑 FTU電池充放電  FTU               1101                
+Z9954HC81-東坑 RESERVE-CO-07  FTU          1102                
+Z9954HC81-東坑 RESERVE-CO-08  FTU          1103                
+Z0454BB74-酒三 FTU通訊狀態  FTU                1104                
+Z0454BB74-酒三 左LBS開關  FTU                 1105                
+Z0454BB74-酒三 左CB開關   FTU                 1106                
+Z0454BB74-酒三 右LBS開關  FTU                 1107                
+Z0454BB74-酒三 右CB開關   FTU                 1108                
+Z0454BB74-酒三 FTU電池充放電  FTU               1109                
+Z0454BB74-酒三 RESERVE-CO-07  FTU          1110                
+Z0454BB74-酒三 RESERVE-CO-08  FTU          1111                
+Z0655FA4896-民航 FTU通訊狀態  FTU              1112                
+Z0655FA4896-民航 左LBS開關  FTU               1113                
+Z0655FA4896-民航 左CB開關  FTU                1114                
+Z0655FA4896-民航 右LBS開關  FTU               1115                
+Z0655FA4896-民航 右CB開關  FTU                1116                
+Z0655FA4896-民航 FTU電池充放電  FTU             1117                
+Z0655FA4896-民航 RESERVE-CO-07  FTU        1118                
+Z0655FA4896-民航 RESERVE-CO-08  FTU        1119                
+Z0755CE10-民航 FTU通訊狀態  FTU                1120                
+Z0755CE10-民航 左LBS開關  FTU                 1121                
+Z0755CE10-民航 左CB開關   FTU                 1122                
+Z0755CE10-民航 右LBS開關  FTU                 1123                
+Z0755CE10-民航 右CB開關   FTU                 1124                
+Z0755CE10-民航 FTU電池充放電  FTU               1125                
+Z0755CE10-民航 RESERVE-CO-07  FTU          1126                
+Z0755CE10-民航 RESERVE-CO-08  FTU          1127                
+Z1055HE01-民航 FTU通訊狀態  FTU                1128                
+Z1055HE01-民航 左LBS開關  FTU                 1129                
+Z1055HE01-民航 左CB開關   FTU                 1130                
+Z1055HE01-民航 右LBS開關  FTU                 1131                
+Z1055HE01-民航 右CB開關   FTU                 1132                
+Z1055HE01-民航 FTU電池充放電  FTU               1133                
+Z1055HE01-民航 RESERVE-CO-07  FTU          1134                
+Z1055HE01-民航 RESERVE-CO-08  FTU          1135                
+CM5-13 FTU通訊狀態       FTU                 1136                
+CM5-13 左LBS開關        FTU                 1137                
+CM5-13 左CB開關         FTU                 1138                
+CM5-13 右LBS開關        FTU                 1139                
+CM5-13 右CB開關         FTU                 1140                
+CM5-13 FTU電池充放電      FTU                 1141                
+CM5-13 RESERVE-CO-07  FTU                1142                
+CM5-13 RESERVE-CO-08  FTU                1143                
+CM5-14 FTU通訊狀態       FTU                 1144                
+CM5-14 左LBS開關        FTU                 1145                
+CM5-14 左CB開關         FTU                 1146                
+CM5-14 右LBS開關        FTU                 1147                
+CM5-14 右CB開關         FTU                 1148                
+CM5-14 FTU電池充放電      FTU                 1149                
+CM5-14 RESERVE-CO-07  FTU                1150                
+CM5-14 RESERVE-CO-08  FTU                1151                
+CM5-15 FTU通訊狀態       FTU                 1152                
+CM5-15 左LBS開關        FTU                 1153                
+CM5-15 左CB開關         FTU                 1154                
+CM5-15 右LBS開關        FTU                 1155                
+CM5-15 右CB開關         FTU                 1156                
+CM5-15 FTU電池充放電      FTU                 1157                
+CM5-15 RESERVE-CO-07  FTU                1158                
+CM5-15 RESERVE-CO-08  FTU                1159                
+Z0157EC66-高科 FTU通訊狀態  FTU                1160                
+Z0157EC66-高科 左LBS開關  FTU                 1161                
+Z0157EC66-高科 左CB開關   FTU                 1162                
+Z0157EC66-高科 右LBS開關  FTU                 1163                
+Z0157EC66-高科 右CB開關   FTU                 1164                
+Z0157EC66-高科 FTU電池充放電  FTU               1165                
+Z0157EC66-高科 RESERVE-CO-07  FTU          1166                
+Z0157EC66-高科 RESERVE-CO-08  FTU          1167                
+CM6-02 FTU通訊狀態       FTU                 1168                
+CM6-02 左LBS開關        FTU                 1169                
+CM6-02 左CB開關         FTU                 1170                
+CM6-02 右LBS開關        FTU                 1171                
+CM6-02 右CB開關         FTU                 1172                
+CM6-02 FTU電池充放電      FTU                 1173                
+CM6-02 RESERVE-CO-07  FTU                1174                
+CM6-02 RESERVE-CO-08  FTU                1175                
+CM6-03 FTU通訊狀態       FTU                 1176                
+CM6-03 左LBS開關        FTU                 1177                
+CM6-03 左CB開關         FTU                 1178                
+CM6-03 右LBS開關        FTU                 1179                
+CM6-03 右CB開關         FTU                 1180                
+CM6-03 FTU電池充放電      FTU                 1181                
+CM6-03 RESERVE-CO-07  FTU                1182                
+CM6-03 RESERVE-CO-08  FTU                1183                
+CM6-04 FTU通訊狀態       FTU                 1184                
+CM6-04 左LBS開關        FTU                 1185                
+CM6-04 左CB開關         FTU                 1186                
+CM6-04 右LBS開關        FTU                 1187                
+CM6-04 右CB開關         FTU                 1188                
+CM6-04 FTU電池充放電      FTU                 1189                
+CM6-04 RESERVE-CO-07  FTU                1190                
+CM6-04 RESERVE-CO-08  FTU                1191                
+CM6-05 FTU通訊狀態       FTU                 1192                
+CM6-05 左LBS開關        FTU                 1193                
+CM6-05 左CB開關         FTU                 1194                
+CM6-05 右LBS開關        FTU                 1195                
+CM6-05 右CB開關         FTU                 1196                
+CM6-05 FTU電池充放電      FTU                 1197                
+CM6-05 RESERVE-CO-07  FTU                1198                
+CM6-05 RESERVE-CO-08  FTU                1199                
+CM6-06 FTU通訊狀態       FTU                 1200                
+CM6-06 左LBS開關        FTU                 1201                
+CM6-06 左CB開關         FTU                 1202                
+CM6-06 右LBS開關        FTU                 1203                
+CM6-06 右CB開關         FTU                 1204                
+CM6-06 FTU電池充放電      FTU                 1205                
+CM6-06 RESERVE-CO-07  FTU                1206                
+CM6-06 RESERVE-CO-08  FTU                1207                
+CM6-07 FTU通訊狀態       FTU                 1208                
+CM6-07 左LBS開關        FTU                 1209                
+CM6-07 左CB開關         FTU                 1210                
+CM6-07 右LBS開關        FTU                 1211                
+CM6-07 右CB開關         FTU                 1212                
+CM6-07 FTU電池充放電      FTU                 1213                
+CM6-07 RESERVE-CO-07  FTU                1214                
+CM6-07 RESERVE-CO-08  FTU                1215                
+CM6-08 FTU通訊狀態       FTU                 1216                
+CM6-08 左LBS開關        FTU                 1217                
+CM6-08 左CB開關         FTU                 1218                
+CM6-08 右LBS開關        FTU                 1219                
+CM6-08 右CB開關         FTU                 1220                
+CM6-08 FTU電池充放電      FTU                 1221                
+CM6-08 RESERVE-CO-07  FTU                1222                
+CM6-08 RESERVE-CO-08  FTU                1223                
+CM6-09 FTU通訊狀態       FTU                 1224                
+CM6-09 左LBS開關        FTU                 1225                
+CM6-09 左CB開關         FTU                 1226                
+CM6-09 右LBS開關        FTU                 1227                
+CM6-09 右CB開關         FTU                 1228                
+CM6-09 FTU電池充放電      FTU                 1229                
+CM6-09 RESERVE-CO-07  FTU                1230                
+CM6-09 RESERVE-CO-08  FTU                1231                
+CM6-10 FTU通訊狀態       FTU                 1232                
+CM6-10 左LBS開關        FTU                 1233                
+CM6-10 左CB開關         FTU                 1234                
+CM6-10 右LBS開關        FTU                 1235                
+CM6-10 右CB開關         FTU                 1236                
+CM6-10 FTU電池充放電      FTU                 1237                
+CM6-10 RESERVE-CO-07  FTU                1238                
+CM6-10 RESERVE-CO-08  FTU                1239                
+CM6-11 FTU通訊狀態       FTU                 1240                
+CM6-11 左LBS開關        FTU                 1241                
+CM6-11 左CB開關         FTU                 1242                
+CM6-11 右LBS開關        FTU                 1243                
+CM6-11 右CB開關         FTU                 1244                
+CM6-11 FTU電池充放電      FTU                 1245                
+CM6-11 RESERVE-CO-07  FTU                1246                
+CM6-11 RESERVE-CO-08  FTU                1247                
+CM6-12 FTU通訊狀態       FTU                 1248                
+CM6-12 左LBS開關        FTU                 1249                
+CM6-12 左CB開關         FTU                 1250                
+CM6-12 右LBS開關        FTU                 1251                
+CM6-12 右CB開關         FTU                 1252                
+CM6-12 FTU電池充放電      FTU                 1253                
+CM6-12 RESERVE-CO-07  FTU                1254                
+CM6-12 RESERVE-CO-08  FTU                1255                
+CM6-13 FTU通訊狀態       FTU                 1256                
+CM6-13 左LBS開關        FTU                 1257                
+CM6-13 左CB開關         FTU                 1258                
+CM6-13 右LBS開關        FTU                 1259                
+CM6-13 右CB開關         FTU                 1260                
+CM6-13 FTU電池充放電      FTU                 1261                
+CM6-13 RESERVE-CO-07  FTU                1262                
+CM6-13 RESERVE-CO-08  FTU                1263                
+CM6-14 FTU通訊狀態       FTU                 1264                
+CM6-14 左LBS開關        FTU                 1265                
+CM6-14 左CB開關         FTU                 1266                
+CM6-14 右LBS開關        FTU                 1267                
+CM6-14 右CB開關         FTU                 1268                
+CM6-14 FTU電池充放電      FTU                 1269                
+CM6-14 RESERVE-CO-07  FTU                1270                
+CM6-14 RESERVE-CO-08  FTU                1271                
+CM6-15 FTU通訊狀態       FTU                 1272                
+CM6-15 左LBS開關        FTU                 1273                
+CM6-15 左CB開關         FTU                 1274                
+CM6-15 右LBS開關        FTU                 1275                
+CM6-15 右CB開關         FTU                 1276                
+CM6-15 FTU電池充放電      FTU                 1277                
+CM6-15 RESERVE-CO-07  FTU                1278                
+CM6-15 RESERVE-CO-08  FTU                1279                
